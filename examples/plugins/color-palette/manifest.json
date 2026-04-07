@@ -1,0 +1,10 @@
+{
+  "id": "example-color-palette",
+  "name": "Auto Color Palette",
+  "version": "1.0.0",
+  "description": "Extracts a dominant color palette from the active layer using k-means clustering",
+  "author": "CanvasOS Team",
+  "permissions": ["canvas.read", "ui.panel"],
+  "entrypoint": "index.js",
+  "panel": "panel.html"
+}

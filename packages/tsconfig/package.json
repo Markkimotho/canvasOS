@@ -1,0 +1,15 @@
+{
+  "name": "@canvasos/tsconfig",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shared TypeScript configurations",
+  "license": "MIT",
+  "exports": {
+    "./base": "./base.json",
+    "./base.json": "./base.json",
+    "./react": "./react.json",
+    "./react.json": "./react.json",
+    "./node": "./node.json",
+    "./node.json": "./node.json"
+  }
+}
